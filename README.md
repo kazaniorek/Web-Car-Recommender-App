@@ -3,6 +3,8 @@
 
 This project is a web-based car recommendation system that allows users to explore and filter car options based on preferences. It combines a machine learning recommender model with a front-end built using Flask and standard web technologies.
 
+🌐 **Live Demo**: [https://carrecommender.pythonanywhere.com/](https://carrecommender.pythonanywhere.com/)
+
 ## Features
 
 - Interactive web interface for car selection and filtering
@@ -49,4 +51,4 @@ Mariusz Sołtycz
 
 ---
 
-This project was developed as part of my BSc Final project and MSc Artificial Intelligence coursework and showcases full-stack integration of machine learning and web technologies.
+This project was developed as part of my BSc Final Project and MSc Artificial Intelligence coursework and showcases full-stack integration of machine learning and web technologies.
